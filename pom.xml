@@ -48,7 +48,7 @@
     <dependency>
       <groupId>de.wps.bube</groupId>
       <artifactId>basis</artifactId>
-      <version>4.14.0</version>
+      <version>4.16.1</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
